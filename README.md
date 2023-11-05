@@ -3,10 +3,7 @@ Lightening strikes, EarlySuraksha Arives !!!!
 
 **Team Details** :-
 
-Shashwat Rai – Leader
-Shivam Kundra 
-Sakshi Rai
-Prapti Sharma
+Shashwat Rai(Leader), Shivam Kundra, Sakshi Rai, Prapti Sharma
 
 **Problem Statement** :-
 
